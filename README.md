@@ -7,6 +7,12 @@ The **To-Do List Application** is a web-based productivity tool to help users ke
 
 ---
 
+## Web interface
+
+<img width="1910" height="966" alt="Screenshot 2025-07-31 134423" src="https://github.com/user-attachments/assets/c16bc179-612d-4079-8095-290abff49854" />
+
+---
+
 ## Features
 
 - **Responsive Design**: Optimized for mobile, tablet, and desktop views.
